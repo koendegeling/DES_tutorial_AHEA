@@ -54,7 +54,7 @@ library(flexsurvcure);  # version 1.2.0
 
 
 # Data set
-data("colon");
+colon <- survival::colon;
 
 # In the data set, each patient is represented by two rows, one for the event of 
 # recurrence and one for the event of death. The variable "etype" indicates to which
