@@ -20,7 +20,7 @@ DES_tutorial_AHEA
   |
   +-- DES_tutorial_AHEA.Rproj           R Studio project file
 
-IMPORTANT! To run all scripts, ensure the working directory in R is set according to the DES_tutorial_AHEA folder as illustrated above. A different name for the main folder may be used, but it should include the data folder with the corresponding filed. This can be easily be achieved by opening the DES_tutorial_AHEA.Rproj project file in R Studio.
+IMPORTANT! To run all scripts, ensure the working directory in R is set according to the DES_tutorial_AHEA folder as illustrated above. A different name for the main folder may be used, but it should include the data folder with the corresponding files. This can be easily be achieved by opening the DES_tutorial_AHEA.Rproj project file in R Studio.
 
 The citation of the tutorial is as follows:
-TO BE ADDED.
+Degeling, K., Karnon, J., van de Ven, M. et al. Discrete Event Simulation in R using the ‘Simmer’ Package for Health Economic Modelling: A Tutorial and Illustration in Colon Cancer. Appl Health Econ Health Policy (2025). https://doi.org/10.1007/s40258-025-00983-8
